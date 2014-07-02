@@ -4,6 +4,22 @@
 
 .icon{
 	width: 20px;
+	display: inline;
+
+
 
 }
 
+.noteLabel{
+	background-color: grey;
+	/*opacity:.5;*/
+	font-size: 20px;
+	font-weight: bold;
+	border-radius: 10px;
+	display: inline;
+	position: relative;
+	top: -15px;
+	left: 5px;
+
+
+}
